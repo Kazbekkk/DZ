@@ -4,7 +4,6 @@ Console.WriteLine("Введите число:");
 int d = Convert.ToInt32(Console.ReadLine());
 Console.WriteLine("Введите число:");
 int b = Convert.ToInt32(Console.ReadLine());
-int max = 0;
 
 if (a < d)
 {

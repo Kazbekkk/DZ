@@ -1,0 +1,15 @@
+C:\Users\Казбек\Desktop\GeekBrains\C#\DZ\Max_Min\bin\Debug\net6.0\Max_Min.exe
+C:\Users\Казбек\Desktop\GeekBrains\C#\DZ\Max_Min\bin\Debug\net6.0\Max_Min.deps.json
+C:\Users\Казбек\Desktop\GeekBrains\C#\DZ\Max_Min\bin\Debug\net6.0\Max_Min.runtimeconfig.json
+C:\Users\Казбек\Desktop\GeekBrains\C#\DZ\Max_Min\bin\Debug\net6.0\Max_Min.dll
+C:\Users\Казбек\Desktop\GeekBrains\C#\DZ\Max_Min\bin\Debug\net6.0\Max_Min.pdb
+C:\Users\Казбек\Desktop\GeekBrains\C#\DZ\Max_Min\obj\Debug\net6.0\Max_Min.csproj.AssemblyReference.cache
+C:\Users\Казбек\Desktop\GeekBrains\C#\DZ\Max_Min\obj\Debug\net6.0\Max_Min.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Казбек\Desktop\GeekBrains\C#\DZ\Max_Min\obj\Debug\net6.0\Max_Min.AssemblyInfoInputs.cache
+C:\Users\Казбек\Desktop\GeekBrains\C#\DZ\Max_Min\obj\Debug\net6.0\Max_Min.AssemblyInfo.cs
+C:\Users\Казбек\Desktop\GeekBrains\C#\DZ\Max_Min\obj\Debug\net6.0\Max_Min.csproj.CoreCompileInputs.cache
+C:\Users\Казбек\Desktop\GeekBrains\C#\DZ\Max_Min\obj\Debug\net6.0\Max_Min.dll
+C:\Users\Казбек\Desktop\GeekBrains\C#\DZ\Max_Min\obj\Debug\net6.0\refint\Max_Min.dll
+C:\Users\Казбек\Desktop\GeekBrains\C#\DZ\Max_Min\obj\Debug\net6.0\Max_Min.pdb
+C:\Users\Казбек\Desktop\GeekBrains\C#\DZ\Max_Min\obj\Debug\net6.0\Max_Min.genruntimeconfig.cache
+C:\Users\Казбек\Desktop\GeekBrains\C#\DZ\Max_Min\obj\Debug\net6.0\ref\Max_Min.dll
